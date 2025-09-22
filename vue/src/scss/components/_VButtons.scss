@@ -1,6 +1,7 @@
 //
 // Light Buttons
 //
+@use '../variables' as *;
 
 .v-btn:not(.v-tab) {
   &.bg-lightprimary {
