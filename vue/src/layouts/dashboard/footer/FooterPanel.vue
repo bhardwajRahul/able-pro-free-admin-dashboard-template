@@ -12,7 +12,7 @@ const footerLink = shallowRef([
   },
   {
     title: 'Support',
-    link: 'https://phoenixcoded.authordesk.app/'
+    link: 'https://codedthemes.support-hub.io/'
   }
 ]);
 </script>
